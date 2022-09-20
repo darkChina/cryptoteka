@@ -1,0 +1,7 @@
+{
+    "user": "postgres",
+    "host": "127.0.0.1",
+    "database": "changemecrypto2",
+    "password": "listentherain88",
+    "port": 5432
+}

@@ -1,0 +1,7 @@
+{
+    "baseCurrency": "string",
+    "changeCurrency": "string",
+    "senderWallet": "string",
+    "receiverWallet": "string",
+    "baseCurrencyAmount": "number"
+}
